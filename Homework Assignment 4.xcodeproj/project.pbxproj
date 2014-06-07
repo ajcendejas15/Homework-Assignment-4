@@ -9,6 +9,11 @@
 /* Begin PBXBuildFile section */
 		9772EB82194299F600DFDEAC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9772EB81194299F600DFDEAC /* main.cpp */; };
 		9772EB84194299F600DFDEAC /* Homework_Assignment_4.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9772EB83194299F600DFDEAC /* Homework_Assignment_4.1 */; };
+		9772EB8C19429F9400DFDEAC /* Ex_04_01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9772EB8A19429F9400DFDEAC /* Ex_04_01.cpp */; };
+		9772EB8F1942A3EA00DFDEAC /* Ex_04_02.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9772EB8D1942A3EA00DFDEAC /* Ex_04_02.cpp */; };
+		9772EB921942AA8700DFDEAC /* Ex_04_03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9772EB901942AA8700DFDEAC /* Ex_04_03.cpp */; };
+		9772EB981942B9C100DFDEAC /* Ex_04_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9772EB961942B9C100DFDEAC /* Ex_04_05.cpp */; };
+		977F696A1942CB78000070B0 /* Ex_04_04.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 977F69691942CB78000070B0 /* Ex_04_04.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +33,16 @@
 		9772EB7E194299F600DFDEAC /* Homework Assignment 4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Homework Assignment 4"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9772EB81194299F600DFDEAC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9772EB83194299F600DFDEAC /* Homework_Assignment_4.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Homework_Assignment_4.1; sourceTree = "<group>"; };
+		9772EB8A19429F9400DFDEAC /* Ex_04_01.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex_04_01.cpp; sourceTree = "<group>"; };
+		9772EB8B19429F9400DFDEAC /* Ex_04_01.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex_04_01.h; sourceTree = "<group>"; };
+		9772EB8D1942A3EA00DFDEAC /* Ex_04_02.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex_04_02.cpp; sourceTree = "<group>"; };
+		9772EB8E1942A3EA00DFDEAC /* Ex_04_02.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex_04_02.h; sourceTree = "<group>"; };
+		9772EB901942AA8700DFDEAC /* Ex_04_03.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex_04_03.cpp; sourceTree = "<group>"; };
+		9772EB911942AA8700DFDEAC /* Ex_04_03.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex_04_03.h; sourceTree = "<group>"; };
+		9772EB941942B00D00DFDEAC /* Ex_04_04.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex_04_04.h; sourceTree = "<group>"; };
+		9772EB961942B9C100DFDEAC /* Ex_04_05.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex_04_05.cpp; sourceTree = "<group>"; };
+		9772EB971942B9C100DFDEAC /* Ex_04_05.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex_04_05.h; sourceTree = "<group>"; };
+		977F69691942CB78000070B0 /* Ex_04_04.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex_04_04.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +77,16 @@
 			children = (
 				9772EB81194299F600DFDEAC /* main.cpp */,
 				9772EB83194299F600DFDEAC /* Homework_Assignment_4.1 */,
+				9772EB8A19429F9400DFDEAC /* Ex_04_01.cpp */,
+				9772EB8B19429F9400DFDEAC /* Ex_04_01.h */,
+				9772EB8D1942A3EA00DFDEAC /* Ex_04_02.cpp */,
+				9772EB8E1942A3EA00DFDEAC /* Ex_04_02.h */,
+				9772EB901942AA8700DFDEAC /* Ex_04_03.cpp */,
+				9772EB911942AA8700DFDEAC /* Ex_04_03.h */,
+				977F69691942CB78000070B0 /* Ex_04_04.cpp */,
+				9772EB941942B00D00DFDEAC /* Ex_04_04.h */,
+				9772EB961942B9C100DFDEAC /* Ex_04_05.cpp */,
+				9772EB971942B9C100DFDEAC /* Ex_04_05.h */,
 			);
 			path = "Homework Assignment 4";
 			sourceTree = "<group>";
@@ -118,6 +143,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9772EB82194299F600DFDEAC /* main.cpp in Sources */,
+				9772EB8F1942A3EA00DFDEAC /* Ex_04_02.cpp in Sources */,
+				9772EB981942B9C100DFDEAC /* Ex_04_05.cpp in Sources */,
+				9772EB8C19429F9400DFDEAC /* Ex_04_01.cpp in Sources */,
+				977F696A1942CB78000070B0 /* Ex_04_04.cpp in Sources */,
+				9772EB921942AA8700DFDEAC /* Ex_04_03.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -227,6 +257,7 @@
 				9772EB89194299F600DFDEAC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
